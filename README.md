@@ -8,4 +8,5 @@ I have used transfer learning on the Tacotron model to train and test it.
 3. used acapella Extractor.com to remove bg musics
 5. Project rate changing from 44100
 6. Export all the audio files
-7. Running of the model as explained in the video.
+7. Running of the model as explained in the video ( https://drive.google.com/file/d/1nyGwg2NylIexvVdJy1QD-ORRx-WMaMtq/view?usp=sharing )
+
